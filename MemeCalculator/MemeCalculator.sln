@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeCalculator", "MemeCalculator.csproj", "{AC7A768C-D862-417F-A170-42FD12D0BD4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenerator", "..\CodeGenerator\CodeGenerator.csproj", "{3B2888B7-C651-4007-9528-A063EB275A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC7A768C-D862-417F-A170-42FD12D0BD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7A768C-D862-417F-A170-42FD12D0BD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7A768C-D862-417F-A170-42FD12D0BD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7A768C-D862-417F-A170-42FD12D0BD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2888B7-C651-4007-9528-A063EB275A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2888B7-C651-4007-9528-A063EB275A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2888B7-C651-4007-9528-A063EB275A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2888B7-C651-4007-9528-A063EB275A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A39D0DA2-1EDD-4106-A945-7C0EFD531127}
+	EndGlobalSection
+EndGlobal
